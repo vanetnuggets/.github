@@ -10,8 +10,8 @@ VANETlab is a collaborative project developed by a team to facilitate research a
 ## Repositories
  - vanetlab-web:
    * Description: This is the public repository for the web portion of our team project.
-   * Technologies: Vue.js
-   * Purpose: It contains the web application related code and functionality for our project.
+   * Technologies: Vue
+   * Purpose: It contains the web with introduction of our team and project.
  
  - vanetlab-fe:
    * Description: This is the public repository for the front-end application of our team project.
@@ -24,7 +24,7 @@ VANETlab is a collaborative project developed by a team to facilitate research a
  
  - vanetlab-be:
    * Description: This is the public repository for the back-end application of our team project.
-   * Technologies: Python
+   * Technologies: Python, Flask, NS3
    * Purpose: It contains the code and files specific to the back-end part of our project.
 
 - vanetlab-ns3:
@@ -34,7 +34,7 @@ VANETlab is a collaborative project developed by a team to facilitate research a
  
  - vanetlab-deploy:
    * Description: This is the public repository for deployment-related code and configurations.
-   * Technologies: CMake
+   * Technologies: Docker
    * Purpose: It contains the necessary files and instructions for deploying our project, including build configurations and deployment scripts.
 
 
